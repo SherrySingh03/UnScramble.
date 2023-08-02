@@ -1,6 +1,5 @@
-# UnScramble.
+# <img src="https://github.com/SherrySingh03/UnScramble./blob/main/icon.png" width="360" height="90"/>
 A Kotlin based unscramble game that uses Jetpack Compose for the user interface and experience.
-
 
 .                          |.                          
 :-------------------------:|:-------------------------:
